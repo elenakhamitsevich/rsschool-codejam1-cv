@@ -49,9 +49,9 @@ h1,h3{
 
 table{
     position: fixed;
-    top: 80;
+    top: 140;
     right: 450;
-    bottom: 0;
+    bottom: auto;
     left: 450;
     z-index: 100;
     display: block;
