@@ -21,43 +21,43 @@ body{
     z-index: 100;
     display: block;
     float: center;
-    width: 500px;
-    height: 130px;
-    margin: 0px;
-    padding: 2px;
+    width: 500;
+    height: 130;
+    margin-bottom: 10;
+    padding: 2;
     font: normal 17px/1.5 "Arial", sans-serif;
     border-bottom: 2px solid black;
 }
 
 h1,h3{
     display: block;
-    width: 500px;
-    height: 0px;
-    margin: 10px;
-    padding: 20px;
+    width: 500;
+    height: 0;
+    margin: 10;
+    padding: 20;
 }
 
 .headline{
     display: block;
     float: right;
-    width: 80px;
-    height: 10px;
-    margin: 0px;
-    padding: 2px;
+    width: 80;
+    height: 10;
+    margin: 0;
+    padding: 2;
     font: bold 15.5px "Times New Roman", sans-serif;   
 }
 
 table{
     position: fixed;
-    top: 50;
+    top: 90;
     right: 450;
     bottom: 0;
     left: 450;
     z-index: 100;
     display: block;
     float: right;
-    width: 500px;
-    height: 450px;
+    width: 500;
+    height: 450;
     margin: auto;
     padding: 1px;
     border-bottom: 2px solid black;
@@ -67,7 +67,7 @@ table{
 p{
     display: block;
     float: right;
-    width: 400px;
+    width: 400;
     height: auto;
     margin: 1px;
     padding: 2px;
@@ -86,8 +86,8 @@ footer{
   z-index: 100;
   display: block;
   float: right;
-  width: 500px;
-  height: 80px;
-  margin: 0px;
-  padding: 2px;    
+  width: 500;
+  height: 80;
+  margin: 0;
+  padding: 2;    
 }
