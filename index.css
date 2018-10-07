@@ -1,0 +1,93 @@
+
+body{
+    background: url("https://akson.ru/upload/resize_cache/ctpi/0d/0d999251ba25eb1da7b18aaa4b40b1d8/1000x1000.JPG");
+    background-size: 100%;
+}
+
+#img{
+    position: fixed;
+    top: 15;
+    right: auto;
+    bottom: 0;
+    left: 850;
+}
+
+    header{
+    position: fixed;
+    top: 0;
+    right: 450;
+    bottom: auto;
+    left: 450;
+    z-index: 100;
+    display: block;
+    float: center;
+    width: 500px;
+    height: 130px;
+    margin: 0px;
+    padding: 2px;
+    font: normal 17px/1.5 "Arial", sans-serif;
+    border-bottom: 2px solid black;
+}
+
+h1,h3{
+    display: block;
+    width: 500px;
+    height: 0px;
+    margin: 10px;
+    padding: 20px;
+}
+
+.headline{
+    display: block;
+    float: right;
+    width: 80px;
+    height: 10px;
+    margin: 0px;
+    padding: 2px;
+    font: bold 15.5px "Times New Roman", sans-serif;   
+}
+
+table{
+    position: fixed;
+    top: 50;
+    right: 450;
+    bottom: 0;
+    left: 450;
+    z-index: 100;
+    display: block;
+    float: right;
+    width: 500px;
+    height: 450px;
+    margin: auto;
+    padding: 1px;
+    border-bottom: 2px solid black;
+    font: normal 15.5px "Times New Roman", sans-serif;
+}
+
+p{
+    display: block;
+    float: right;
+    width: 400px;
+    height: auto;
+    margin: 1px;
+    padding: 2px;
+}
+
+.bord{
+    border-bottom: 2px dotted black ;
+}
+
+footer{
+  position: fixed;
+  top: auto;
+  right: 450;
+  bottom: 0;
+  left: 450;
+  z-index: 100;
+  display: block;
+  float: right;
+  width: 500px;
+  height: 80px;
+  margin: 0px;
+  padding: 2px;    
+}
