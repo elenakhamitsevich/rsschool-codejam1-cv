@@ -51,7 +51,7 @@ table{
     position: fixed;
     top: 140;
     right: 450;
-    bottom: auto;
+    bottom: 0;
     left: 450;
     z-index: 100;
     display: block;
