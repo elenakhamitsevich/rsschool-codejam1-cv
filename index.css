@@ -25,7 +25,7 @@ body{
     height: 130;
     margin-bottom: 10;
     padding: 2;
-    font: normal 17px/1.5 "Arial", sans-serif;
+    font: normal 17/1.5 "Arial", sans-serif;
     border-bottom: 2px solid black;
 }
 
@@ -44,12 +44,12 @@ h1,h3{
     height: 10;
     margin: 0;
     padding: 2;
-    font: bold 15.5px "Times New Roman", sans-serif;   
+    font: bold 15.5 "Times New Roman", sans-serif;   
 }
 
 table{
     position: fixed;
-    top: 90;
+    top: 80;
     right: 450;
     bottom: 0;
     left: 450;
@@ -59,9 +59,9 @@ table{
     width: 500;
     height: 450;
     margin: auto;
-    padding: 1px;
+    padding: 1;
     border-bottom: 2px solid black;
-    font: normal 15.5px "Times New Roman", sans-serif;
+    font: normal 15.5 "Times New Roman", sans-serif;
 }
 
 p{
@@ -69,8 +69,8 @@ p{
     float: right;
     width: 400;
     height: auto;
-    margin: 1px;
-    padding: 2px;
+    margin: 1;
+    padding: 2;
 }
 
 .bord{
@@ -89,5 +89,6 @@ footer{
   width: 500;
   height: 80;
   margin: 0;
-  padding: 2;    
+  padding: 0;    
+  font-size: 14;
 }
