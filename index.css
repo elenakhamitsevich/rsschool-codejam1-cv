@@ -58,7 +58,7 @@ table{
     float: right;
     width: 500;
     height: 450;
-    margin: auto;
+    margin: 0;
     padding: 1;
     border-bottom: 2px solid black;
     font: normal 15.5px "Times New Roman", sans-serif;
